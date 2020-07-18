@@ -13,7 +13,8 @@ class leopard{
        this->name=obj.name;
        this->gender=obj.gender;
     }
-
+/// inner class 
+ 
 
     class static builder{
     public:
